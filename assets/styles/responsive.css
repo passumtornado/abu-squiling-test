@@ -577,7 +577,13 @@
   } */
   .right-sidebar{
     width: 300px;
-    right: 15rem;
+    right: 20rem;
   } 
+  .app-nav .logo{
+    margin-left: 25rem;
+  }
+  .app-nav .nav-right{
+    margin-right: 20rem;
+  }
  
 }
