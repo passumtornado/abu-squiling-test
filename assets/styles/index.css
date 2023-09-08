@@ -841,7 +841,7 @@ fieldset,.info-img-wrapper .circle-header {
 }
 .info-img-wrapper .circle-header span:nth-child(1){
   border-top-color: var(--primary);
-  border-left-color: var(--secondary);
+  border-left-color: var(--primary);
   border-top-left-radius: 15px; 
 }
 .info-img-wrapper .circle-header span:nth-child(3){
