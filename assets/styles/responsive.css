@@ -551,7 +551,33 @@
 }
 
 /* Extra Large Devices (large laptops and desktops) */
-@media only screen and (min-width: 1440px) {
+@media only screen and (min-width: 1990px) {
   /* Your styles here */
+  .app-content2,.body-center{
+    width: 990px;
+    margin: 0 auto;
+    margin-left: 18rem;
+  }
+  .body-center{
+    width: 700px !important;
+  }
+  .app-nav{
+    width: 1440px;
+    margin: 0 auto;
+    right: .5rem; 
+  }
+  .left-sidebar{
+    width:600px;
+    left: 25rem;
+  }
+  
+  /* .left-sidebar-bg{
+    width:650px !important;
+    background: red;
+  } */
+  .right-sidebar{
+    width: 300px;
+    right: 15rem;
+  } 
  
 }
